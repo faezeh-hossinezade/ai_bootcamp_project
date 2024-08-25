@@ -14,7 +14,7 @@ As part of Quera's bootcamp, we developed this project to apply my knowledge of 
 *  Pandas, NumPy, Scikit-learn
 
 ### Data
-* **Data Source:** [<a href="project_doc.docx">project_coc</a>]
+* **Data Source:** [<a href="project_doc.docx">project_doc</a>]
 * **Data Cleaning and Preprocessing:** [Describe the steps involved in cleaning and preparing the data for analysis.]
 * **Exploratory Data Analysis (EDA):**
   * [Summarize your findings from EDA, including visualizations.]
